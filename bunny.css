@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+body, table, form, input, td, th, p, textarea, select {
+  font-family: "????","Meiryo","?????? Pro W3",
+  "Hiragino Kaku Gothic Pro","MS P????", "MS P Gothic","Osaka",
+  Verdana,Arial, Helvetica, sans-serif;
+}
+
+#main-table {
+  background-image: url(snowrabbit.png) !important;
+}

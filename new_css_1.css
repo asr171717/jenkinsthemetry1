@@ -4,3 +4,6 @@
 #jenkins-home-link{
     display:none !important
 }
+#main-table {
+  background-image: url(picture.png);
+}

@@ -3,6 +3,7 @@
     background-repeat:no-repeat;
     background-size: auto 40px, cover;
     background-position: 10px 10px;
+    background-color:#e91e63 !important;
   }
   #jenkins-home-link{
     display:none !important

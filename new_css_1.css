@@ -28,3 +28,6 @@ top:0;
 letter-spacing:1px;
 padding:12px 10px;
 z-index:1}#header 
+yui-button
+.primary button{color:#fff!important;
+background-color:#26a69a!important}

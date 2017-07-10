@@ -24,3 +24,20 @@
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
+
+/* Custom style for CloudBees Jenkins Platform */
+.logo img {
+content:url("http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/sign-check-icon.png");
+}
+.logo #jenkins-name-icon {
+display: none;
+}
+.logo:after {
+content: 'GE Centralized backend tool';
+font-weight: bold;
+font-size: 20px;
+margin-left: 234px;
+margin-right: 12px;
+color: white;
+line-height: 40px;
+}
